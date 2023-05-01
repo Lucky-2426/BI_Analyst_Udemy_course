@@ -1,5 +1,11 @@
 # BI_analyst_course_udemy
 
-This analysis is the final project of the Udemy Business Intelligence Analyst course. It aims to analyse the absenteism at a company during work. Absenteism is the absence from work during normal working hours, resulting in temporary incapcity to execute regaular working activity.
+This repository contains my codes for each topics of the BI Analyst Course taken on Udemy.
 
-We will explore whether a person presenting certain characteristics is expected to be away from work at some point in time or not.
+This course is about topics below :
+- Statistics 
+- SQL
+- Python
+- Tableau Desktop
+
+There is also a final project but I will be putting it here as soon as I get to it.
