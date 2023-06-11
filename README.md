@@ -8,4 +8,7 @@ This course is about topics below :
 - Python
 - Tableau Desktop
 
-There is also a final project but I will be putting it here as soon as I get to it.
+Added value of the course : I had already intermediate level in Tableau, SQL and Python. The course allowed me to upskill in SQL to advanced level, and mainly to practise more Python on a concrete project.
+
+Negative points : If you want to learn Tableau, this is not the course to take cause it focuses more on SQL and Python for data analysis.
+
